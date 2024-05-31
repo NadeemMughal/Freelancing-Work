@@ -1,0 +1,20 @@
+﻿Column,Description
+CustomerID,A unique identifier for each customer.
+Age,The age of the customer.
+Qualification,The highest level of education attained by the customer (ABS classification)
+Occupation,The customer's occupation (ABS classification)
+Marital Status,The marital status of the customer (ABS classification)
+Home Mortgage,Indicates whether the customer has a home mortgage.
+Personal Loan,Indicates whether the customer has a personal loan.
+Has Other Bank Account,Specifies if the customer has any other account with Great Ocean Bank
+Last Contact Direction,"Direction of the last contact (e.g., Inbound or Outbound)."
+Last Contact Duration,Duration of the last contact in seconds.
+Last Contact Month,The month of the last contact.
+Last Contact Weekday,The weekday of the last contact.
+Number of Current Campaign Calls, The number of calls between Great Ocean Bank and the customer during the current campaign.
+Number of Previous Campaign Calls,The number of calls between Great Ocean Bank and the customer during previous campaigns.
+Previous Campaign Outcome,The outcome of the previous marketing campaign (Sale or No Sale)
+RBA Cash Rate,The Reserve Bank of Australia's cash rate at the time of the last contact.
+Employment Variation Rate,A measure of employment variation at the time of the last contact.
+Consumer Confidence Index,The consumer confidence index at the time of the last contact.
+Sale Outcome,"The outcome of the sale attempt (e.g., Sale, No Sale)."
