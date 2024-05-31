@@ -1,0 +1,7 @@
+Abstract 
+introduction
+python and weka 
+Literature work
+Methodology 
+result and analysis
+conclusio and future work
